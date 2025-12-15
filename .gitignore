@@ -1,0 +1,7 @@
+.env
+env 
+/__pycache__
+test_game.py 
+.gitingore
+games.db
+test_game.py
