@@ -17,7 +17,6 @@ Telegram-бот для игры в 21 очко (Blackjack) на базе aiogram
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/yourusername/ochko_21.git
    cd ochko_21
    ```
 
